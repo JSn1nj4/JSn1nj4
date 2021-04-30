@@ -10,9 +10,9 @@
 
 <p>&nbsp;</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsn1nj4&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jsn1nj4" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsn1nj4&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="jsn1nj4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsn1nj4&show_icons=true&locale=en&theme=gotham" alt="jsn1nj4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsn1nj4&show_icons=true&locale=en&theme=gotham&hide=stars" alt="jsn1nj4" /></p>
 
 <p>&nbsp;</p>
 
